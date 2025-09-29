@@ -1,5 +1,6 @@
  🎧 MVP Machine Learning &amp; Analytics - PUC RIO  -  Maria Eduarda Battaglia  - Setembro 2025
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dudabattaglia/MVPAnalisedeDados/blob/main/MVP_MachineLearning_Spotify.ipynb)
 
 Este projeto foi desenvolvido como entrega do MVP da disciplina **Machine Learning & Analytics**, com o objetivo de prever a popularidade de faixas do Spotify a partir de seus atributos acústicos.
 
