@@ -4,9 +4,9 @@
 Este projeto foi desenvolvido como entrega do MVP da disciplina **Machine Learning & Analytics**, com o objetivo de prever a popularidade de faixas do Spotify a partir de seus atributos acústicos.
 
 ## Estrutura do Projeto
-- **MVP_MachineLearning_Spotify.ipynb** — Notebook principal, pronto para execução no Google Colab.
-- **dataset.csv** — Dataset com as faixas e atributos (carregado via URL para reprodutibilidade).
-- **artifacts/final_model.pkl** — Modelo final treinado (gerado ao executar o notebook).
+- **MVP_MachineLearning_Spotify.ipynb** - Notebook principal, pronto para execução no Google Colab.
+- **dataset.csv** - Dataset com as faixas e atributos (carregado via URL para reprodutibilidade).
+- **artifacts/final_model.pkl** - Modelo final treinado (gerado ao executar o notebook).
 
 ## Como Executar
 1. Abra o [notebook no Google Colab](https://colab.research.google.com/github/dudabattaglia/MVPAnalisedeDados/blob/main/MVP_MachineLearning_Spotify.ipynb).
